@@ -33,3 +33,12 @@ The goal was to learn Linux fundamentals, server setup, and basic networking.
 
 ## Conclusion
 This project helped me gain practical experience with Linux servers and system management.
+
+## Screenshots
+
+### SSH Login
+![SSH Login](ssh-login.png)
+
+### System Status
+![System Status](system-status.png)
+
